@@ -1,0 +1,27 @@
+{
+    "prefix": "!",
+    "token": "BOT_TOKEN_BURAYA",
+    "moderatorRoles": [
+        "Moderatör",
+        "Admin",
+        "Yönetici"
+    ],
+    "muteRoleName": "Susturulmuş",
+    "logChannelName": "mod-log",
+    "embedColor": "#ff6b6b",
+    "embedColors": {
+        "success": "#00ff00",
+        "error": "#ff0000",
+        "warning": "#ffaa00",
+        "info": "#0099ff"
+    },
+    "antiRaidDefaults": {
+        "userLimit": 5,
+        "timeLimit": 30,
+        "alertCooldown": 300
+    },
+    "protectionLogChannels": {
+        "banprotection": "964850899832963092",
+        "antiraid": "964850899832963092"
+    }
+}
